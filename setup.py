@@ -6,7 +6,7 @@ setup(
     packages=['utils', 'commands'],
     py_modules=['ade_ext'],
     install_requires=[
-        'Click ==8.0.3',
+        'Click ==8.1.3',
         'requests'
     ],
     entry_points={
